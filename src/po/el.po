@@ -1,0 +1,259 @@
+# Greek translation of gnome-mag.
+# Copyright (C) Greek GNOME Translation Team.
+# This file is distributed under the same license as the gnome-mag package.
+# Kostas Papadimas <pkst@gmx.net>, 2002.
+# Nikos Charonitakis <frolix68@gnome.org>, 2003.
+# Giannis Katsampiris <giannis1_86@hotmail.com>, 2008.
+# Simos Xenitellis <simos@gnome.org>, 2008.
+#
+# Nikos, 26Nov03, Review
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mag 0.15.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-13 16:16+0100\n"
+"PO-Revision-Date: 2008-02-04 21:12+0200\n"
+"Last-Translator: Giannis Katsampiris <giannis1_86@hotmail.com>\n"
+"Language-Team: Greek <team@gnome.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "Προσιτότητα"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "Μικροεφαρμογή Colorblind"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "Ελέγχει τα φίλτρα εικόνων για ανθρώπους με αχρωματοψία"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "_Περί"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "_Προτιμήσεις"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>Προεπιλεγμένο φίλτρο</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>Φίλτρα</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>Συντόμευση</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr ""
+"<i>Αυτό είναι το φίλτρο που θα χρησιμοποιηθεί κατά την ενεργοποίηση/απενεργοποίηση των φίλτρων."
+"</i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "Προτιμήσεις φίλτρων αχρωματοψίας"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid ""
+"Configure the filter being used as default when the filters are disabled."
+msgstr ""
+"Ρυθμίστε το φίλτρο που χρησιμοποιείται σαν προεπιλογή όταν τα φίλτρα είναι απενεργοποιημένα."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "Ενεργοποίηση/Απενεργοποίηση φίλτρων:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "Φίλτρο:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "Μετατόπιση αρνητικής απόχρωσης"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "Μετατόπιση θετικής απόχρωσης"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "Επιλογή επόμενου φίλτρου:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "Μπλε επιλεκτικός αποκορεσμός"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "Μπλε επιλεκτικός κορεσμός"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "Πράσινος επιλεκτικός αποκορεσμός"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "Πράσινος επιλεκτικός κορεσμός"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "Κόκκινος επιλεκτικός αποκορεσμός"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "Κόκκινος επιλεκτικός κορεσμός"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Αυτό το φίλτρο κάνει πλήρη αποκορεσμό του μπλε χρώματος όταν είναι το "
+"κυρίαρχο χρώμα εικονοστοιχείων στην εικόνα."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Αυτό το φίλτρο κάνει πλήρη αποκορεσμό του πράσινου χρώματος όταν αυτό είναι το "
+"κυρίαρχο χρώμα των εικονοστοιχείων στην εικόνα."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Αυτό το φίλτρο κάνει πλήρη αποκορεσμό του κόκκινου χρώματος όταν αυτό είναι το "
+"κυρίαρχο χρώμα των εικονοστοιχείων στην εικόνα."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Αυτό το φίλτρο κάνει πλήρη κορεσμό του μπλε χρώματος όταν αυτό είναι το κυρίαρχο "
+"χρώμα των εικονοστοιχείων στην εικόνα."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Αυτό το φίλτρο κάνει πλήρη κορεσμό του πράσινου χρώματος όταν αυτό είναι το "
+"κυρίαρχο χρώμα των εικονοστοιχείων στην εικόνα."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Αυτό το φίλτρο κάνει πλήρη κορεσμό του κόκκινου χρώματος όταν αυτό είναι το κυρίαρχο "
+"χρώμα των εικονοστοιχείων στην εικόνα."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Κάνει τους μετασχηματισμούς των χρωμάτων Κόκκινο  σε Μπλε, Πράσινο σε Κόκκινο και Μπλε σε Πράσινο, μεταφέροντας "
+"μια πιθανώς διφορούμενη συλλογή χρωμάτων σε μια διαφορετική μπάντα του φάσματος."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Κάνει τους μετασχηματισμούς των χρωμάτων Κόκκινο  σε Πράσινο, Πράσινο σε Μπλε και Μπλε σε Κόκκινο, μεταφέροντας "
+"μια πιθανώς διφορούμενη συλλογή χρωμάτων σε μια διαφορετική μπάντα του φάσματος."
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "_Αρχείο"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "_Έξοδος"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "_Επεξεργασία"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "Μικροεφαρμογή Colorblind"
+
+#: ../colorblind/ui/About.py:25
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr ""
+"Φίλτρα εικόνων για το colorblind. Αυτή η μικροεφαρμογή είναι μέρος του gnome-mag, μια "
+"υπηρεσία ενίζχυσης του GNOME."
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "ιστοτόπος gnome-mag"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"Ελληνική μεταφραστική ομάδα GNOME\n"
+" Κώστας Παπαδήμας <pkst@gmx.net>\n"
+" Νίκος Χαρωνιτάκης <frolix68@gnome.org>\n"
+" Σίμος Ξενιτέλλης <simos@gnome.org>\n"
+" Γιάννης Κατσαμπίρης <giannis1_86@hotmail.com>\n"
+"\n"
+"Για περισσότερα δείτε http://www.gnome.gr/"
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "Νέο πλήκτρο συντόμευσης..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"Η συντόμευση \"%s\" δεν μπορεί να χρησιμοποιηθεί επειδή θα είναι αδύνατη η πληκτρολόγηση "
+"αυτού του πλήκτρου.\n"
+"Παρακαλώ δοκιμάστε να κάνετε συνδυασμούς πλήκτρων όπως το Control, το Alt ή το Shift.\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "Μεγεθυντής"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "Μια απλή υπηρεσία μεγέθυνσης οθόνης"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "Αδύνατο το άνοιγμα της προβολής: η μεταβλητή περιβάλλοντος DISPLAY δεν έχει οριστεί"
+

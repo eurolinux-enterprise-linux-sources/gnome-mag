@@ -1,0 +1,253 @@
+# translation of gnome-mag.HEAD.pa.po to Punjabi
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Amanpreet Singh Alam <aalam@users.sf.net>, 2004, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mag.HEAD.pa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-07 13:08+0100\n"
+"PO-Revision-Date: 2009-02-04 07:13+0530\n"
+"Last-Translator: Amanpreet Singh Alam <aalam@users.sf.net>\n"
+"Language-Team: Punjabi/Panjabi <punjab-l10n@list.sf.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "ਸਹਿਯੋਗ"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "ਰੰਗ-ਅੰਨ੍ਹਾਪਣ ਐਪਲਿਟ"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "ਰੰਗ-ਅੰਨ੍ਹੇ ਲੋਕਾਂ ਲਈ ਚਿੱਤਰ ਫਿਲਟਰ ਕੰਟਰੋਲ ਕਰਦਾ ਹੈ"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "ਇਸ ਬਾਰੇ(_A)"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "ਮੇਰੀ ਪਸੰਦ(_P)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>ਮੂਲ ਫਿਲਟਰ</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>ਫਿਲਟਰ</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>ਸ਼ਾਰਟਕੱਟ</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr ""
+"<i>ਇਹ ਫਿਲਟਰ ਹੈ, ਜੋ ਕਿ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ, ਜਦੋਂ ਫਿਲਟਰ ਚਾਲੂ/ਬੰਦ ਹੁੰਦੇ ਹਨ।"
+"</i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "ਰੰਗ-ਅੰਨ੍ਹਾਪਨ ਫਿਲਟਰ ਪਸੰਦ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid ""
+"Configure the filter being used as default when the filters are disabled."
+msgstr "ਜਦੋਂ ਫਿਲਟਰ ਆਯੋਗ ਹੋਣ ਤਾਂ ਮੂਲ ਰੂਪ ਵਿੱਚ ਵਰਤਣ ਲਈ ਫਿਲਟਰ ਦੀ ਸੰਰਚਨਾ ਕਰੋ।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "ਫਿਲਟਰ ਚਾਲੂ/ਬੰਦ:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "ਫਿਲਟਰ:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "ਰਿਣਾਤਮਕ ਆਭਾ ਸਿਫਟ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "ਧਨਾਤਮਕ ਆਭਾ ਸਿਫਟ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "ਅਗਲਾ ਫਿਲਟਰ ਚੁਣੋ:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "ਚੋਣਵਾਂ ਨੀਲਾ ਅਸੰਤ੍ਰਿਪਤ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "ਚੋਣਵਾਂ ਨੀਲਾ ਅਸੰਤ੍ਰਿਪਤ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "ਚੋਣਵਾਂ ਹਰਾ ਅਸੰਤ੍ਰਿਪਤ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "ਚੋਣਵਾਂ ਹਰਾ ਸੰਤ੍ਰਿਪਤ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "ਚੋਣਵਾਂ ਲਾਲ ਅਸੰਤ੍ਰਿਪਤ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "ਚੋਣਵਾਂ ਲਾਲ ਸੰਤ੍ਰਿਪਤ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"ਇਹ ਫਿਲਟਰ ਨੀਲੇ ਰੰਗ ਨੂੰ ਅਸੰਤ੍ਰਿਪਤ ਕਰਦਾ ਹੈ, ਜਦੋਂ ਚਿੱਤਰ ਵਿੱਚ ਇਹ ਮੁੱਖ ਪਿਕਸਲ ਰੰਗ "
+"ਹੋਵੇ।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"ਇਹ ਫਿਲਟਰ ਹਰੇ ਰੰਗ ਨੂੰ ਅਸੰਤ੍ਰਿਪਤ ਕਰਦਾ ਹੈ, ਜਦੋਂ ਚਿੱਤਰ ਵਿੱਚ ਇਹ ਮੁੱਖ ਪਿਕਸਲ ਰੰਗ "
+"ਹੋਵੇ।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"ਇਹ ਫਿਲਟਰ ਲਾਲ ਰੰਗ ਨੂੰ ਅਸੰਤ੍ਰਿਪਤ ਕਰਦਾ ਹੈ, ਜਦੋਂ ਚਿੱਤਰ ਵਿੱਚ ਇਹ ਮੁੱਖ ਪਿਕਸਲ ਰੰਗ "
+"ਹੋਵੇ।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"ਇਹ ਫਿਲਟਰ ਨੀਲੇ ਰੰਗ ਨੂੰ ਸੰਤ੍ਰਿਪਤ ਕਰਦਾ ਹੈ, ਜਦੋਂ ਚਿੱਤਰ ਵਿੱਚ ਇਹ ਮੁੱਖ ਪਿਕਸਲ ਰੰਗ "
+"ਹੋਵੇ।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"ਇਹ ਫਿਲਟਰ ਹਰੇ ਰੰਗ ਨੂੰ ਸੰਤ੍ਰਿਪਤ ਕਰਦਾ ਹੈ, ਜਦੋਂ ਚਿੱਤਰ ਵਿੱਚ ਇਹ ਮੁੱਖ ਪਿਕਸਲ ਰੰਗ "
+"ਹੋਵੇ।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"ਇਹ ਫਿਲਟਰ ਲਾਲ ਰੰਗ ਨੂੰ ਸੰਤ੍ਰਿਪਤ ਕਰਦਾ ਹੈ, ਜਦੋਂ ਚਿੱਤਰ ਵਿੱਚ ਇਹ ਮੁੱਖ ਪਿਕਸਲ ਰੰਗ "
+"ਹੋਵੇ।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"ਲਾਲ ਤੋਂ ਨੀਲਾ, ਹਰੇ ਤੋਂ ਲਾਲ ਅਤੇ ਨੀਲੇ ਤੋਂ ਹਰਾ ਬਦਲਦਾ ਹੈ,ਇੱਕ ਸਥਿਰ ਰੰਗਾਂ ਦੇ ਸਮੂਹ "
+"ਤੋਂ ਬਦਲਵੇਂ "
+"ਵਰਣਪੱਟ ਦੇ ਸਮੂਹ ਲਈ।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"ਲਾਲ ਤੋਂ ਹਰਾ, ਹਰੇ ਤੋਂ ਨੀਲਾ ਅਤੇ ਨੀਲੇ ਤੋਂ ਲਾਲ ਬਦਲਦਾ ਹੈ,ਇੱਕ ਸਥਿਰ ਰੰਗਾਂ ਦੇ ਸਮੂਹ "
+"ਤੋਂ ਬਦਲਵੇਂ "
+"ਵਰਣਪੱਟ ਦੇ ਸਮੂਹ ਲਈ।"
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "ਫਾਇਲ(_F)"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "ਬੰਦ ਕਰੋ(_Q)"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "ਸੋਧ(_E)"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "ਰੰਗ-ਅੰਨ੍ਹਾਪਣ ਐਪਲਿਟ"
+
+#: ../colorblind/ui/About.py:25
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr ""
+"ਰੰਗ-ਅੰਨ੍ਹੇਪਣ ਲਈ ਚਿੱਤਰ ਫਿਲਟਰ ਹੈ। ਇਹ ਐਪਲਿਟ ਗਨੋਮ-ਮਗ ਦਾ ਭਾਗ ਹੈ, ਜੋ ਕਿ ਗਨੋਮ ਲਈ "
+"ਵੱਡਦਰਸ਼ੀ "
+"ਸੇਵਾ ਹੈ।"
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "gnome-mag ਵੈੱਬਸਾਈਟ"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ <aalam@users.sf.net)\n"
+"http://www.satluj.com/"
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "ਨਵਾਂ ਪਰਵੇਸ਼ਕ..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"ਸ਼ਾਰਟਕੱਟ \"%s\" ਵਰਤਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਇਸ ਕੁੰਜੀ ਨੂੰ ਲਿਖਣਾ ਅਸੰਭਵ ਹੈ।\n"
+"ਕੰਟਰੋਲ, Alt ਜਾਂ ਸਿਫਟ ਨੂੰ ਇੱਕ ਵਾਰ ਟਾਈਪ ਕਰਨ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "ਵੱਡਦਰਸ਼ੀ"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "ਸਧਾਰਨ ਸਕਰੀਨ ਵੱਡਦਰਸ਼ੀ ਸੇਵਾ"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "ਡਿਸਪਲੇਅ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ: DISPLAY ਨਹੀਂ ਦਿੱਤਾ"
+

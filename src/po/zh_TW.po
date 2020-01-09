@@ -1,0 +1,237 @@
+# Chinese (Taiwan) translation of gnome-mag.
+# Copyright (C) 2003, 2007 Free Software Foundation, Inc.
+# Abel Cheung <abel@oaka.org>, 2003.
+# Abel Cheung <abel@oaka.org>, 2007.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mag 0.15.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-07 13:08+0100\n"
+"PO-Revision-Date: 2008-02-06 02:22+0800\n"
+"Last-Translator: Woodman Tuen <wmtuen@gmail.com>\n"
+"Language-Team: Chinese/Traditional <zh-l10n@lists.linux.org.tw>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "無障礙環境"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "色盲面板程式"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "為色盲的使用者控制圖片濾鏡"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "關於(_A)"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "偏好設定(_P)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>預設濾鏡</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>濾鏡</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>捷徑鍵</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr "<i>這是在啟用/停用濾鏡時會使用的濾鏡。</i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "色盲濾鏡偏好設定"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid ""
+"Configure the filter being used as default when the filters are disabled."
+msgstr "設定停用濾鏡時要使用的濾鏡。"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "啟用/停用濾鏡:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "濾鏡:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "負向色調偏移"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "正向色調偏移"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "選擇下一個濾鏡:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "選擇性藍色去飽和"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "選擇性藍色飽和"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "選擇性綠色去飽和"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "選擇性綠色飽和"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "選擇性紅色去飽和"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "選擇性紅色飽和"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr "當藍色是圖片中的主要色彩時，這個濾鏡會對它進行完全的去飽和。"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr "當綠色是圖片中的主要色彩時，這個濾鏡會對它進行完全的去飽和。"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr "當紅色是圖片中的主要色彩時，這個濾鏡會對它進行完全的去飽和。"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr "當藍色是圖片中的主要色彩時，這個濾鏡會對它進行完全的飽和。"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr "當綠色是圖片中的主要色彩時，這個濾鏡會對它進行完全的飽和。"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr "當紅色是圖片中的主要色彩時，這個濾鏡會對它進行完全的飽和。"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"將紅色轉換為藍色，綠色轉換為紅色，藍色轉換為綠色。如此可將原本可能難以分辨的"
+"顏色組分開至不同的光譜。"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"將紅色轉換為綠色，綠色轉換為藍色，藍色轉換為紅色。如此可將原本可能難以分辨的"
+"顏色組分開至不同的光譜。"
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "檔案(_F)"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "結束(_Q)"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "編輯(_E)"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "色盲面板程式"
+
+#: ../colorblind/ui/About.py:25
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr ""
+"給色盲使用者的圖片濾鏡。這是 gnome-mag 的一部分面板程式，而 gnome-mag 是 "
+"GNOME 的放大鏡服務。"
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "gnome-mag 網站"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"如對翻譯有任何意見，請送一封電子郵件給\n"
+"以下地址，GNOME 翻譯團隊會盡快回覆您：\n"
+"zh-l10n@lists.linux.org.tw\n"
+"\n"
+"Abel Cheung <abel@oaka.org>, 2007.\n"
+"Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>, 2008."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "新增捷徑鍵..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"不能使用捷徑鍵「%s」，因為它會造成無法輸入該按鍵原本的值。\n"
+"請試著一併配合 Control、Alt 或 Shift 使用。\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "放大鏡"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "簡單的螢幕放大鏡服務"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "無法開啟顯示：顯示並未設定"

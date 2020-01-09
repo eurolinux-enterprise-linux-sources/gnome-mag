@@ -1,0 +1,11 @@
+colorblind/ColorblindApplet.py
+colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in
+colorblind/Keybinder.py
+colorblind/data/colorblind-applet.schemas.in
+colorblind/data/Colorblind_Applet.xml
+[type: gettext/glade]colorblind/data/colorblind-prefs.ui
+colorblind/ui/WindowUI.py
+colorblind/ui/About.py
+colorblind/ui/ColorblindPreferencesUI.py
+magnifier/GNOME_Magnifier.server.in.in
+magnifier/magnifier-main.c

@@ -1,0 +1,206 @@
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Mișu Moldovan <dumol@go.ro>, 2004.
+# Adi Roiban https://launchpad.net/~adiroiban, 2008, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mag\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-mag&component=general\n"
+"POT-Creation-Date: 2009-02-12 19:39+0000\n"
+"PO-Revision-Date: 2009-02-17 22:46+0200\n"
+"Last-Translator: Adi Roiban <adi@roiban.ro>\n"
+"Language-Team: Gnome Romanian Team <gnomero-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1 ? 0: (((n % 100 > 19) || ((n % 100 == 0) && (n != 0))) ? 2: 1));\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "Accesibilitate"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "Miniaplicație discromați"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "Controlează filtrul de imagine pentru discromați"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "_Despre"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "_Preferințe"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>Filtru standard</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>Filtre</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>Scurtături</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid "<i>This is the filter that will be used when enabling/disabling the filters.</i>"
+msgstr "<i>Acesta este filtrul folosit la activarea/dezactivarea filtrelor.</i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "Preferințe filtre discromați"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid "Configure the filter being used as default when the filters are disabled."
+msgstr "Configurează filtrul folosit implicit când filtrele sunt dezactivate."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "Activare/Dezactivare filtre:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "Filtru:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "Decalaj negativ nuanță"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "Decalaj pozitiv nuanță"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "Alege filtrul următor:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "Desaturare selectivă albastru"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "Saturare selectivă albastru"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "Desaturare selectivă verde"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "Saturare selectivă verde"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "Desaturare selectivă roșu"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "Saturare selectivă roșu"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid "This filter completely desaturates the blue color when this is the predominant pixel color in the image."
+msgstr "Filtrul desaturează complet coluarea albastră când aceasta este predominantă în imagine."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid "This filter completely desaturates the green color when this is the predominant pixel color in the image."
+msgstr "Filtrul desaturează complet coluarea verde când aceasta este predominantă în imagine."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid "This filter completely desaturates the red color when this is the predominant pixel color in the image."
+msgstr "Filtrul desaturează complet coluarea roșie când aceasta este predominantă în imagine."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid "This filter completely saturates the blue color when this is the predominant pixel color in the image."
+msgstr "Filtrul saturează complet coluarea albastră când aceasta este predominantă în imagine."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid "This filter completely saturates the green color when this is the predominant pixel color in the image."
+msgstr "Filtrul saturează complet coluarea verde când aceasta este predominantă în imagine."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid "This filter completely saturates the red color when this is the predominant pixel color in the image."
+msgstr "Filtrul saturează complet coluarea roșie când aceasta este predominantă în imagine."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid "Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr "Transformă culorile roșu în albastru, verde în roșu și albastru în verde, ducînd un set de culori ambigue într-o altă bandă a spectrumului."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid "Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr "Transformă culorile roșu în verde, verde în albastru și albastru în roșu, ducînd un set de culori ambigue într-o altă bandă a spectrumului."
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "_Fișier"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "_Ieșire"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "_Editare"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "Miniaplicație discromați"
+
+#: ../colorblind/ui/About.py:25
+msgid "Image filters for the colorblind. This is applet is part of gnome-mag, a magnification service for GNOME."
+msgstr "Filtre de imagine pentru discromați. Această miniaplicație face parte din gnome-mag, o aplicație de mărire a ecranului pentru GNOME."
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "Pagina web gnome-mag"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Adi Roiban https://launchpad.net/~adiroiban\n"
+"  Ionuț Jula https://launchpad.net/~ionutjula\n"
+"  Mișu Moldovan https://launchpad.net/~dumol"
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "Accelerator nou..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"Scurtătura „%s” nu poate fi folosită deoarece devine imposibil să tastați folosind acea tasta.\n"
+"Încercați cu o combinație cu taste precum Control, Alt sau Shift.\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "Lupă"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "Unealtă simplă de mărire a ecranului"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "Nu s-a putut deschide ecranul: DISPLAY nu este definit"
+

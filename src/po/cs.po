@@ -1,0 +1,251 @@
+# Czech gnome-mag translation.
+# Copyright (C) 2002, 2007, 2008 The Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-mag package.
+# Michal Bukovjan <bukm@centrum.cz>, 2002.
+# Jan Parkman <parkmaj@users.sourceforge.net>, 2008.
+# Petr Kovar <pknbe@volny.cz>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-02 15:01+0100\n"
+"PO-Revision-Date: 2008-03-02 14:40+0100\n"
+"Last-Translator: Petr Kovar <pknbe@volny.cz>\n"
+"Language-Team: Czech <gnome-cs-list@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "Zpřístupnění"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "Applet Colorblind"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "Ovládání obrazových filtrů pro barvoslepé"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "O _aplikaci"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "_Nastavení"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>Výchozí filtr</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>Filtry</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>Klávesové zkratky</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr "<i>Tento filtr bude použit, když povolíte/zakážete použití filtrů.</i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "Nastavení filtrů pro barvoslepé"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid ""
+"Configure the filter being used as default when the filters are disabled."
+msgstr ""
+"Nastavit, který filtr bude použit jako výchozí, když jsou filtry vypnuty."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "Povolení/zakázání filtrů:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "Filtr:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "Snížení sytosti barev"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "Zvýšení sytosti barev"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "Vybrat další filtr:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "Selektivní odbarvení modré barvy"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "Selektivní přibarvení modré barvy"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "Selektivní odbarvení zelené barvy"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "Selektivní přibarvení zelené barvy"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "Selektivní odbarvení červené barvy"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "Selektivní přibarvení červené barvy"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Tento filtr úplně odbarví modrou barvu, pokud je tato dominantní barvou v "
+"obraze."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Tento filtr úplně odbarví zelenou barvu, pokud je tato dominantní barvou v "
+"obraze."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Tento filtr úplně odbarví červenou barvu, pokud je tato dominantní barvou v "
+"obraze."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Tento filtr plně saturuje modrou barvu, pokud je tato dominantní barvu v "
+"obraze."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Tento filtr plně saturuje zelenou barvu, pokud je tato dominantní barvu v "
+"obraze."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Tento filtr plně saturuje červenou barvu, pokud je tato dominantní barvu v "
+"obraze."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Převádí červenou barvu na modrou, zelenou na červenou a modrou na zelenou,"
+"převádí potenciálně nejednoznačnou množinu barev do odlišné části spektra."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Převádí červenou barvu na zelenou, zelenou na modrou a modrou na červenou, "
+"převádí potenciálně nejednoznačnou množinu barev do odlišné části spektra."
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "_Soubor"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "U_končit"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "_Upravit"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "Applet Colorblind"
+
+#: ../colorblind/ui/About.py:25
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr ""
+"Obrazové filtry pro barvoslepé. Tento applet je částí programu gnome-mag, "
+"lupy pro GNOME."
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "Webové stránky programu gnome-mag"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"Michal Bukovjan <bukm@centrum.cz>\n"
+"Jan Parkman <parkmaj@users.sourceforge.net>\n"
+"Petr Kovář <pknbe@volny.cz>"
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "Nová zkratka..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"Klávesovou zkratku \"%s\" není možné použít, protože by pak bylo nemožné "
+"psát běžným způsobem.\n"
+"Zkuste použít jinou klávesovou zkratku (třeba s klávesou Alt, Shift nebo "
+"Ctrl).\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "Lupa"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "Služba jednoduchého přibližování obrazovky"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "Nelze otevřít displej: proměnná DISPLAY není nastavena"

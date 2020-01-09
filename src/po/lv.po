@@ -1,0 +1,253 @@
+# translation of lv.po to Latvian
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Raivis Dejus <orvils@gmail.com>, 2006, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: lv\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-mag&component=general\n"
+"POT-Creation-Date: 2009-02-17 21:01+0000\n"
+"PO-Revision-Date: 2009-02-19 18:26+0200\n"
+"Last-Translator: Raivis Dejus <orvils@gmail.com>\n"
+"Language-Team: Latvian <locale@laka.lv>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-02-19 16:08+0000\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "Pieejamība"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "Daltoniķu alfabēts"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "Kontrolē attēla filtrus daltoniķiem"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "P_ar"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "_Iestatījumi"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>Noklusētais filtrs</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>Filtrs</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>Saīsne</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr ""
+"<i>Šis ir filtrs, ko izmantos citu filtru aktivizēšanai un deaktivizēšanai.</"
+"i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "Daltoniķu filtru iestatījumi"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid "Configure the filter being used as default when the filters are disabled."
+msgstr ""
+"Konfigurēt filtru, kas tiks izmantots kā noklusētais, kad citi filtri ir "
+"deaktivizēti."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "Aktivizēt/Deaktivizēt filtrus:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "Filtrs:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "Negatīva spilgtuma novirze"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "Pozitīva spilgtuma novirze"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "Izvēlieties nākamo filtru:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "Samazināt zilās krāsas intensitāti"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "Palielināt zilās krāsas intensitāti"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "Samazināt zaļās krāsas intensitāti"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "Palielināt zaļās krāsas intensitāti"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "Samazināt sarkanās krāsas intensitāti"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "Palielināt sarkanās krāsas intensitāti"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Šis filtrs pilnībā samazina zilās krāsas intensitāti, ja tā ir dominējošā "
+"krāsa attēla pikselī."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Šis filtrs pilnībā samazina zaļās krāsas intensitāti, ja tā ir dominējošā "
+"krāsa attēla pikselī."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Šis filtrs pilnībā samazina sarkanās krāsas intensitāti, ja tā ir dominējošā "
+"krāsa attēla pikselī."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Šis filtrs pilnībā palielina zilās krāsas intensitāti, ja tā ir dominējošā "
+"krāsa attēla pikselī."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Šis filtrs pilnībā palielina zaļās krāsas intensitāti, ja tā ir dominējošā "
+"krāsa attēla pikselī."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Šis filtrs pilnībā palielina sarkanās krāsas intensitāti, ja tā ir "
+"dominējošā krāsa attēla pikselī."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Pārvērš krāsas Sarkano par zilo, zaļo par sarkano un zilo par zaļo, "
+"izveidojot potenciāli neskaidru krāsu gammu citā spektra apgabalā."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Pārvērš krāsas Sarkano par zaļo, zaļo par zilo un zilo par sarkano, "
+"izveidojot potenciāli neskaidru krāsu gammu citā spektra apgabalā."
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "_Fails"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "_Iziet"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "R_ediģēt"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "Daltoniķu alfabēts"
+
+#: ../colorblind/ui/About.py:25
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr ""
+"Attēlu filtri daltoniķiem. Šī sīkprogramma ir daļa no GNOME palielināšanas "
+"servisa gnome-mag."
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "gnome-mag mājas lapa"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Artis Trops https://launchpad.net/~hornet\n"
+"  Raivis Dejus https://launchpad.net/~orvils"
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "Jauna saīsne..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"Saīsne \"%s\" nevar tikt izmantots, jo drukājot šis taustiņš būs "
+"neizmantojams.\n"
+"Lūdzu mēģiniet ar tādiem taustiņiem kā Ctrl, Alt vai Shift vienlaicīgi.\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "Lupa"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "Vienkāršs Ekrāna Palielināšanas Serviss"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "Nevar atvērt ekrānu: DISPLAY nav uzstādīts"
+

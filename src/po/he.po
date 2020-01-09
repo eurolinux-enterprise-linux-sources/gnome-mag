@@ -1,0 +1,248 @@
+# translation of gnome-mag.HEAD.po to Hebrew
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Gil 'Dolfin' Osher <dolfin@rpg.org.il>, 2002
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mag.HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-05 15:10+0000\n"
+"PO-Revision-Date: 2009-03-07 23:56+0200\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0beta2\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "נגישות"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "יישומון לעיוורי צבעים"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "שליטה במסנני תמונות עבור עיוורי צבעים"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "_אודות"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "_העדפות"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>מסנן ברירת המחדל</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>מסננים</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>קיצור</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr "<i>זהו המסנן אשר יהיה בשימוש כאשר מאפשרים/מכבים את המסננים.</i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "העדפות מסנני עיוורי צבעים"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid ""
+"Configure the filter being used as default when the filters are disabled."
+msgstr "הגדר את מסנן ברירת המחדל אשר יהיה בשימוש כאשר המסננים כבויים."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "אפשר/כבה מסננים:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "מסנן:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "הזחת גוון שלילית"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "הזחת גוון חיובית"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "בחר את המסנן הבא:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "החלשת רוויית הכחול באופן סלקטיבי"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "הגברת רוויית הכחול באופן סלקטיבי"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "החלשת רוויית הירוק באופן סלקטיבי"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "הגברת רוויית הירוק באופן סלקטיבי"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "החלשת רוויית האדום באופן סלקטיבי"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "הגברת רוויית האדום באופן סלקטיבי"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"מסנן זה מחליש לחלוטין את רוויית הצבע הכחול כאשר זהו צבע הפיקסלים השולט "
+"בתמונה."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"מסנן זה מחליש לחלוטין את רוויית הצבע הירוק כאשר זהו צבע הפיקסלים השולט "
+"בתמונה."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"מסנן זה מחליש לחלוטין את רוויית הצבע האדום כאשר זהו צבע הפיקסלים השולט "
+"בתמונה."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"מסנן זה מגביר לחלוטין את רוויית הצבע הכחול כאשר זהו צבע הפיקסלים השולט "
+"בתמונה."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"מסנן זה מגביר לחלוטין את רוויית הצבע הירוק כאשר זהו צבע הפיקסלים השולט "
+"בתמונה."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"מסנן זה מגביר לחלוטין את רוויית הצבע האדום כאשר זהו צבע הפיקסלים השולט "
+"בתמונה."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"הופך את הצבעים האדומים לכחולים, את הירוקים לאדומים ואת הכחולים לירוקים, ובכך "
+"החלפת הצבעים אינה חד משמעית ומאפשרת צפיה בספקטרום רחב יותר של צבעים."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"הופך את הצבעים האדומים לירוקים, את הירוקים לכחולים ואת הכחולים לאדומים, ובכך "
+"החלפת הצבעים אינה חד משמעית ומאפשרת צפיה בספקטרום רחב יותר של צבעים."
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "_קובץ"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "_יציאה"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "_עריכה"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "יישומון לעיוורי צבעים"
+
+#: ../colorblind/ui/About.py:25
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr ""
+"מסנני תמונה עבור עיוורי הצבעים. יישומון זה הוא חלק מ־gnome-mag, שירות זכוכית "
+"מגדלת עבור GNOME."
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "אתר הבית של gnome-mag"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"פרוייקט תרגום GNOME לעברית\n"
+"\n"
+"‏http://gnome-il.berlios.de"
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "מאיץ חדש..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"לא ניתן להשתמש בקיצור \"%s\" מכיון שזה יגרום  לכך שלא יהיה ניתן לכתוב בעזרת "
+"מקש זה.\n"
+"נא לנסות עם אחד מהמקשים Alt‏, Control או Shift בו זמנית.\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "זכוכית מגדלת"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "שירות זכוכית מגדלת למסך פשוט"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "Can't open display: DISPLAY is not set"

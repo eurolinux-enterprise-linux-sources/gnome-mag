@@ -1,0 +1,5 @@
+DATA_DIR = "/usr/local/share"
+LIB_DIR = "/usr/local/lib"
+VERSION = "0.15.9"
+PACKAGE = "gnome-mag"
+PYTHONDIR = "/usr/local/lib/python2.6/site-packages"

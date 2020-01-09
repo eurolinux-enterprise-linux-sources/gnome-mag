@@ -1,0 +1,258 @@
+# Brazilian Portuguese translation of gnome-mag.
+# Copyright (C) 2003-2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-mag package.
+# Alexandre Folle de Menezes <afmenez@terra.com.br>, 2003.
+# Guilherme de S. Pastore <gpastore@gnome.org>, 2006.
+# Djavan Fagundes <dnoway@gmail.com>, 2007.
+# Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2009.
+# Fábio Nogueira <deb-user-ba@ubuntu.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-31 07:51-0300\n"
+"PO-Revision-Date: 2009-08-31 07:38-0300\n"
+"Last-Translator: Fábio Nogueira <fnogueira@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "Acessibilidade"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "Miniaplicativo para daltônicos"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "Controla filtros de imagem para pessoas daltônicas"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "_Sobre"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "_Preferências"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>Filtro padrão</b>"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>Filtros</b>"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>Atalho</b>"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:4
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr ""
+"<i>Este é o filtro que será usado quando habilitar/desabilitar os filtros.</"
+"i>"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "Preferências dos filtros para daltônicos"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:6
+msgid ""
+"Configure the filter being used as default when the filters are disabled."
+msgstr ""
+"Configura como padrão o filtro que está sendo usado, quando os filtros "
+"estiverem desabilitados."
+
+#: ../colorblind/data/colorblind-prefs.ui.h:7
+msgid "Enable/Disable Filters:"
+msgstr "Habilitar/desabilitar filtros:"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:8
+msgid "Filter:"
+msgstr "Filtro:"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:220
+msgid "Negative Hue Shift"
+msgstr "Alteração negativa de matiz"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Positive Hue Shift"
+msgstr "Alteração positiva de matiz"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:11
+msgid "Select Next Filter:"
+msgstr "Selecione próximo filtro:"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Selective Blue Desaturation"
+msgstr "Dessaturação azul seletiva"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Blue Saturation"
+msgstr "Saturação azul seletiva"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Green Desaturation"
+msgstr "Dessaturação verde seletiva"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Green Saturation"
+msgstr "Saturação verde seletiva"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Red Desaturation"
+msgstr "Dessaturação vermelha seletiva"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Red Saturation"
+msgstr "Saturação vermelha seletiva"
+
+#: ../colorblind/data/colorblind-prefs.ui.h:18
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Este filtro dessatura completamente a cor azul quando esta é a cor de pixels "
+"predominante na imagem."
+
+#: ../colorblind/data/colorblind-prefs.ui.h:19
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Este filtro dessatura completamente a cor verde quando esta é a cor de "
+"pixels predominante na imagem."
+
+#: ../colorblind/data/colorblind-prefs.ui.h:20
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Este filtro dessatura completamente a cor vermelha quando esta é a cor de "
+"pixels predominante na imagem."
+
+#: ../colorblind/data/colorblind-prefs.ui.h:21
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Este filtro satura completamente a cor azul quando esta é a cor predominante "
+"do pixel na imagem."
+
+#: ../colorblind/data/colorblind-prefs.ui.h:22
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Este filtro satura completamente a cor verde quando esta é a cor "
+"predominante do pixel na imagem."
+
+#: ../colorblind/data/colorblind-prefs.ui.h:23
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Este filtro satura completamente a cor vermelha quando esta é a cor "
+"predominante do pixel na imagem."
+
+#: ../colorblind/data/colorblind-prefs.ui.h:24
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Transforma as cores vermelha em azul, verde em vermelha e azul em verde, "
+"trazendo um conjunto de cores potencialmente ambíguo para outra parte do "
+"espectro."
+
+#: ../colorblind/data/colorblind-prefs.ui.h:25
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Transforma as cores vermelha em verde, verde em azul e azul em vermelha, "
+"trazendo um conjunto de cores potencialmente ambíguo para outra parte do "
+"espectro."
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "_Arquivo"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "Sai_r"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "_Editar"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "Miniaplicativo para daltônicos"
+
+#: ../colorblind/ui/About.py:25
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr ""
+"Filtros de imagem para daltônicos. Este miniaplicativo é parte do gnome-mag, "
+"um serviço de ampliação para o GNOME."
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "site do gnome-mag"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"Alexandre Folle de Menezes <afmenez@terra.com.br>\n"
+"Guilherme de S. Pastore <gpastore@gnome.org>\n"
+"Djavan Fagundes <dnoway@gmail.com>\n"
+"Leonardo Ferreira Fontenelle <leonardof@gnome.org>\n"
+"Fábio Nogueira <deb-user-ba@ubuntu.com>"
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "Novo acelerador..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"O atalho \"%s\" não pode ser usado porque será impossível digitar usando "
+"esta tecla.\n"
+"Por favor, tente com uma tecla com Ctrl, Alt ou Shift ao mesmo tempo.\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "Lupa"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "Serviço simples de ampliação de tela"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "Não foi possível abrir a tela, a variável DISPLAY não está definida"

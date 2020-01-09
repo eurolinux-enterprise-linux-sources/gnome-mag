@@ -1,0 +1,226 @@
+# translation of kn.po to Kannada
+# Shankar Prasad <svenkate@redhat.com>, 2008.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Renuka Prasad <rennie606@yahoo.co.in>
+msgid ""
+msgstr ""
+"Project-Id-Version: kn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-11-27 04:16+0000\n"
+"PO-Revision-Date: 2008-08-29 13:53+0530\n"
+"Last-Translator: Shankar Prasad <svenkate@redhat.com>\n"
+"Language-Team: Kannada <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "ನಿಲುಕಣೆ"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "ಬಣ್ಣಗುರುಡು ಆಪ್ಲೆಟ್"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "ಬಣ್ಣಗುರುಡನ್ನು ಹೊಂದಿರುವವರಿಗಾಗಿ ಚಿತ್ರದ ಫಿಲ್ಟರನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "ತಂತ್ರಾಂಶದ ಬಗ್ಗೆ(_A)"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "ಆದ್ಯತೆಗಳು(_P)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>ಡೀಫಾಲ್ಟ್‍ ಫಿಲ್ಟರ್</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>ಫಿಲ್ಟರುಗಳು</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>ಶಾರ್ಟ್-ಕಟ್</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr "<i>ಫಿಲ್ಟರುಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು/ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವಾಗ ಈ ಫಿಲ್ಟರನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.</i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "ಬಣ್ಣಗುರುಡು ಫಿಲ್ಟರಿನ ಆದ್ಯತೆಗಳು"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid "Configure the filter being used as default when the filters are disabled."
+msgstr "ಫಿಲ್ಟರುಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದಾಗ, ಡೀಫಾಲ್ಟ್‍ ಫಿಲ್ಟರಾಗಿ ಬಳಸುತ್ತಿರುವುದನ್ನು ಸಂರಚಿಸಿ."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "ಫಿಲ್ಟರನ್ನು ಸಕ್ರಿಯ/ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "ಫಿಲ್ಟರ್:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "ಋಣಾತ್ಮಕ ಹ್ಯೂ ಬದಲಾವಣೆ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "ಧನಾತ್ಮಕ ಹ್ಯೂ ಬದಲಾವಣೆ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "ಮುಂದಿನ ಫಿಲ್ಟರನ್ನು ಆಯ್ಕೆ ಮಾಡಿ:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "ಆಯ್ಕಾತ್ಮಕ ನೀಲಿ ಡಿಸ್ಯಾಚುರೇಶನ್ (ಬಣ್ಣವನ್ನು ತಿಳಿಗೊಳಿಸುವಿಕೆ)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "ಆಯ್ಕಾತ್ಮಕ ನೀಲಿ ಸ್ಯಾಚುರೇಶನ್ (ಬಣ್ಣವನ್ನು ಗಾಢಗೊಳಿಸುವಿಕೆ)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "ಆಯ್ಕಾತ್ಮಕ ಹಸಿರು ಡಿಸ್ಯಾಚುರೇಶನ್ (ಬಣ್ಣವನ್ನು ತಿಳಿಗೊಳಿಸುವಿಕೆ)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "ಆಯ್ಕಾತ್ಮಕ ಹಸಿರು ಸ್ಯಾಚುರೇಶನ್ (ಬಣ್ಣವನ್ನು ಗಾಢಗೊಳಿಸುವಿಕೆ)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "ಆಯ್ಕಾತ್ಮಕ ಕೆಂಪು ಡಿಸ್ಯಾಚುರೇಶನ್ (ಬಣ್ಣವನ್ನು ತಿಳಿಗೊಳಿಸುವಿಕೆ)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "ಆಯ್ಕಾತ್ಮಕ ಕೆಂಪು ಸ್ಯಾಚುರೇಶನ್ (ಬಣ್ಣವನ್ನು ಗಾಢಗೊಳಿಸುವಿಕೆ)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr "ಚಿತ್ರದಲ್ಲಿ ಈ ಪಿಕ್ಸೆಲ್ ಬಣ್ಣವು ಪ್ರಧಾನವಾಗಿದ್ದಾಗ ಈ ಫಿಲ್ಟರ್ ನೀಲಿ ಬಣ್ಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಗೊಳಿಸುತ್ತದೆ."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr "ಚಿತ್ರದಲ್ಲಿ ಈ ಪಿಕ್ಸೆಲ್ ಬಣ್ಣವು ಪ್ರಧಾನವಾಗಿದ್ದಾಗ ಈ ಫಿಲ್ಟರ್ ಹಸಿರು ಬಣ್ಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಗೊಳಿಸುತ್ತದೆ."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr "ಚಿತ್ರದಲ್ಲಿ ಈ ಪಿಕ್ಸೆಲ್ ಬಣ್ಣವು ಪ್ರಧಾನವಾಗಿದ್ದಾಗ ಈ ಫಿಲ್ಟರ್ ಕೆಂಪು ಬಣ್ಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಗೊಳಿಸುತ್ತದೆ."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr "ಚಿತ್ರದಲ್ಲಿ ಈ ಪಿಕ್ಸೆಲ್ ಬಣ್ಣವು ಪ್ರಧಾನವಾಗಿದ್ದಾಗ ಈ ಫಿಲ್ಟರ್ ನೀಲಿ ಬಣ್ಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಗಾಢಗೊಳಿಸುತ್ತದೆ."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr "ಚಿತ್ರದಲ್ಲಿ ಈ ಪಿಕ್ಸೆಲ್ ಬಣ್ಣವು ಪ್ರಧಾನವಾಗಿದ್ದಾಗ ಈ ಫಿಲ್ಟರ್ ಹಸಿರು ಬಣ್ಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಗಾಢಗೊಳಿಸುತ್ತದೆ."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr "ಚಿತ್ರದಲ್ಲಿ ಈ ಪಿಕ್ಸೆಲ್ ಬಣ್ಣವು ಪ್ರಧಾನವಾಗಿದ್ದಾಗ ಈ ಫಿಲ್ಟರ್ ಕೆಂಪು ಬಣ್ಣವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಗಾಢಗೊಳಿಸುತ್ತದೆ."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr "ಬಣ್ಣಗಳನ್ನು ಕೆಂಪಿನಿಂದ ನೀಲಿ, ಹಸಿರಿನಿಂದ ಕೆಂಪು ಹಾಗು ನೀಲಿಯಿಂದ ಹಸಿರಿಗೆ ಬದಲಾಯಿಸುತ್ತದೆ, ಆ ಮೂಲಕ ಒಂದು ಸಾಕಷ್ಟು ಅಸ್ಪಷ್ಟ್ ಬಣ್ಣಗಳ ಜೋಡಿಯನ್ನು ವರ್ಣಪಂಕ್ತಿಯ ಬೇರೊಂದು ಗುಂಪಿಗೆ ವರ್ಗಾಯಿಸುತ್ತದೆ."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr "ಬಣ್ಣಗಳನ್ನು ಕೆಂಪಿನಿಂದ ಹಸಿರು, ಹಸಿರಿನಿಂದ ನೀಲಿ ಹಾಗು ನೀಲಿಯಿಂದ ಕೆಂಪಿಗೆ ಬದಲಾಯಿಸುತ್ತದೆ, ಆ ಮೂಲಕ ಒಂದು ಸಾಕಷ್ಟು ಅಸ್ಪಷ್ಟ್ ಬಣ್ಣಗಳ ಜೋಡಿಯನ್ನು ವರ್ಣಪಂಕ್ತಿಯ ಬೇರೊಂದು ಗುಂಪಿಗೆ ವರ್ಗಾಯಿಸುತ್ತದೆ."
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "ಕಡತ(_F)"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "ಹೊರನಡೆ(_Q)"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "ಸಂಪಾದನೆ(_E)"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "ಬಣ್ಣಗುರುಡು ಆಪ್ಲೆಟ್"
+
+#: ../colorblind/ui/About.py:25
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr "ಬಣ್ಣಗುರುಡನ್ನು ಹೊಂದಿರುವವರಿಗಾಗಿರುವ ಚಿತ್ರದ ಫಿಲ್ಟರ್. ಈ ಅನ್ವಯವು gnome-mag ನ ಒಂದು ಭಾಗವಾಗಿದ್ದು, GNOME ಗಾಗಿನ ಚಿತ್ರ-ಹಿಗ್ಗಿಸುವ ಒಂದು ಸಾಧನವಾಗಿದೆ."
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "gnome-mag ಜಾಲತಾಣ"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr "ರೇಣುಕಾ ಪ್ರಸಾದ್ <rennie606@yahoo.co.in>, ಶಂಕರ್ ಪ್ರಸಾದ್ ಎಂ. ವಿ. <svenkate@redhat.com>"
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "ಹೊಸ ವೇಗವರ್ಧಕ..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"\"%s\" ಶಾರ್ಟ್-ಕಟ್ಟನ್ನು ಬಳಸುವಂತಿಲ್ಲ ಏಕೆಂದರೆ ಈ ಕೀಲಿಯನ್ನು ಬಳಸಿಕೊಂಡು ಟೈಪ್‌ ಮಾಡುವುದು ಅಸಾಧ್ಯವಾಗುತ್ತದೆ.\n"
+"ದಯವಿಟ್ಟು ಇದೆ ಸಮಯದಲ್ಲಿ Control, Alt ಅಥವ Shift ನಂತಹ ಕೀಲಿಯೊಂದಿಗೆ ಪ್ರಯತ್ನಿಸಿ.\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "ಭೂತಗನ್ನಡಿ"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "ಪರದೆ ದೊಡ್ಡದಾಗಿ ತೋರಿಸುವ ಸರಳ ಸೇವೆ"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "ಪ್ರದರ್ಶಕವನ್ನು ತೆರೆಯಲಾಗಿಲ್ಲ: DISPLAY ಅನ್ನು ಅಣಿಗೊಳಿಸಲಾಗಿಲ್ಲ"
+

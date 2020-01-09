@@ -1,0 +1,233 @@
+# translation of bn_IN.po to Bengali INDIA
+# Bengali Translation of GNOME-Mag
+# Copyright (C) 2003, 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the GNOME-Mag package.
+#
+# Sayamindu Dasgupta <unmadindu@bengalinux.org>, 2003.
+# Runa Bhattacharjee <runab@redhat.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: bn_IN\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-08-28 04:35+0100\n"
+"PO-Revision-Date: 2008-09-08 12:35+0530\n"
+"Last-Translator: Runa Bhattacharjee <runab@redhat.com>\n"
+"Language-Team: Bengali INDIA <fedora-trans-bn_IN@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "বিশেষ ব্যবহার"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "Colorblind অ্যাপ্লেট"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "বর্ণান্ধ ব্যবহারকারীদের জন্য ছবির ফিল্টার নিয়ন্ত্রণে ব্যবহৃত"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "পরিচিতি (_A)"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "পছন্দ (_P)"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>ডিফল্টরূপে ব্যবহৃত ফিল্টার</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>ফিল্টার</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>শর্ট-কাট</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr ""
+"<i>ফিল্টার সক্রিয়/নিষ্ক্রিয় করার জন্য এই ফিল্টার ব্যবহার করা হবে।"
+"</i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "Colorblind ফিল্টার সংক্রান্ত পছন্দ"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid "Configure the filter being used as default when the filters are disabled."
+msgstr "ফিল্টার নিষ্ক্রিয় করা হলে ডিফল্টরূপে ব্যবহারযোগ্য ফিল্টারটি কনফিগার করুন।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "ফিল্টার সক্রিয়/নিষ্ক্রিয় করুন:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "ফিল্টার:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "নেগেটিভ হিউ পরিবর্তন"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "পসিটিভ হিউ পরিবর্তন"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "পরবর্তী ফিল্টার নির্বাচন করুন:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "নীল রঙের নির্দিষ্ট ডি-স্যাচুরেশন"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "নীল রঙের নির্দিষ্ট স্যাচুরেশন"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "সবুজ রঙের নির্দিষ্ট ডি-স্যাচুরেশন"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "সবুজ রঙের নির্দিষ্ট স্যাচুরেশন"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "লাল রঙের নির্দিষ্ট ডি-স্যাচুরেশন"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "লাল রঙের নির্দিষ্ট স্যাচুরেশন"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr "ছবির অধিকাংশ পিক্সেলের রঙ নীল হলে এই ফিল্টার দ্বারা নীল রঙ সম্পূর্ণরূপে ডি-স্যাচুরেট করা হয়।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr "ছবির অধিকাংশ পিক্সেলের রঙ সবুজ হলে এই ফিল্টার দ্বারা সবুজ রঙ সম্পূর্ণরূপে ডি-স্যাচুরেট করা হয়।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr "ছবির অধিকাংশ পিক্সেলের রঙ লাল হলে এই ফিল্টার দ্বারা লাল রঙ সম্পূর্ণরূপে ডি-স্যাচুরেট করা হয়।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr "ছবির অধিকাংশ পিক্সেলের রঙ নীল হলে এই ফিল্টার দ্বারা নীল রঙ সম্পূর্ণরূপে স্যাচুরেট করা হয়।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr "ছবির অধিকাংশ পিক্সেলের রঙ সবুজ হলে এই ফিল্টার দ্বারা সবুজ রঙ সম্পূর্ণরূপে স্যাচুরেট করা হয়।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr "ছবির অধিকাংশ পিক্সেলের রঙ লাল হলে এই ফিল্টার দ্বারা লাল রঙ সম্পূর্ণরূপে স্যাচুরেট করা হয়।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr "লাল রঙকে নীল, সবুজ রঙকে লাল ও নীল রঙকে সবুজ রঙে পরিবর্তন করে অস্পষ্ট বর্ণের কিছু রঙকে বর্ণালীর ভিন্ন ব্যাপ্তির মধ্যে স্থাপন করা হয়।"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr "লাল রঙকে সবুজ, সবুজ রঙকে নীল ও নীল রঙকে লাল রঙে পরিবর্তন করে অস্পষ্ট বর্ণের কিছু রঙকে বর্ণালীর ভিন্ন ব্যাপ্তির মধ্যে স্থাপন করা হয়।"
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "ফাইল (_F)"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "প্রস্থান (_Q)"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "সম্পাদনা (_E)"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "Colorblind অ্যাপ্লেট"
+
+#: ../colorblind/ui/About.py:25
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr "বর্ণান্ধ ব্যবহারকারীদের জন্য ছবির ফিল্টার। এই অ্যাপ্লেটটি gnome-mag অর্থাৎ GNOME-র বিবর্ধক পরিসেবার অংশ।"
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "gnome-mag ওয়েব-সাইট"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"সায়মিন্দু দাশগুপ্ত (unmadindu@bengalinux.org)\n"
+"রুণা ভট্টাচার্য্য (runab@redhat.com)"
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "নতুন অ্যাকসেলেরেটর..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"শর্টকাট-কি হিসাবে \"%s\" ব্যবহার করা যাবে না কারণ এর ফলে এই কি ব্যবহার করে কিছু "
+"টাইপ করা যাবে না।\n"
+"অনুগ্রহ করে Control, Alt অথবা Shift কি-র সাথে একত্রিত ব্যবহারের প্রচেষ্টা করুন।\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "বিবর্ধক"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "সাধারণ পর্দা (স্ক্রীণ) বিবর্ধন সেবা"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "ডিসপ্লে আরম্ভ করতে ব্যর্থ: DISPLAY-র মান নির্ধারণ করা হয়নি"
+

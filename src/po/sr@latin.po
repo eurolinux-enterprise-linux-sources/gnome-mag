@@ -1,0 +1,209 @@
+# Serbian translation of gnome-mag
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004, 2005.
+#
+# This file is distributed under the same license as the gnome-mag package.
+#
+# Maintainer: Branko Ivanović <popeye@one.ekof.bg.ac.yu>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-20 18:46+0200\n"
+"PO-Revision-Date: 2008-09-20 18:58+0100\n"
+"Last-Translator: Goran Rakić <grakic@devbase.net>\n"
+"Language-Team: Serbian (sr) <serbiangnome-lista@nongnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3;    plural=n%10==1 && n%100!=11 ? 0 :    n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:1
+msgid "Accessibility"
+msgstr "Pristupačnost"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:2
+msgid "Colorblind applet"
+msgstr "Programče za daltoniste"
+
+#: ../colorblind/GNOME_Magnifier_ColorblindApplet.server.in.in.h:3
+msgid "Controls image filters for colorblind people"
+msgstr "Upravlja filterima prilagođenim daltonistima"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:1
+#: ../colorblind/ui/WindowUI.py:40
+msgid "_About"
+msgstr "_O programu"
+
+#: ../colorblind/data/Colorblind_Applet.xml.h:2
+#: ../colorblind/ui/WindowUI.py:39
+msgid "_Preferences"
+msgstr "_Postavke"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:1
+msgid "<b>Default Filter</b>"
+msgstr "<b>Podrazumevani filter</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:2
+msgid "<b>Filters</b>"
+msgstr "<b>Filteri</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:3
+msgid "<b>Shortcut</b>"
+msgstr "<b>Prečica</b>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:4
+msgid "<i>This is the filter that will be used when enabling/disabling the filters.</i>"
+msgstr "<i>Ovo je filter koji će biti u upotrebi pri uključivanju i isključivanju filtera.</i>"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:5
+msgid "Colorblind Filters Preferences"
+msgstr "Postavke filtera za daltoniste"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:6
+msgid "Configure the filter being used as default when the filters are disabled."
+msgstr "Podesi filter koji se koristi kao podrazumevani kada su filteri isključeni "
+
+#: ../colorblind/data/colorblind-prefs.glade.h:7
+msgid "Enable/Disable Filters:"
+msgstr "Uključi i isključi filtere:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:8
+msgid "Filter:"
+msgstr "Filter:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:9
+#: ../colorblind/ui/ColorblindPreferencesUI.py:219
+msgid "Negative Hue Shift"
+msgstr "Negativno pomeranje nijansi"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:10
+#: ../colorblind/ui/ColorblindPreferencesUI.py:218
+msgid "Positive Hue Shift"
+msgstr "Pozitivno pomeranje nijansi"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:11
+msgid "Select Next Filter:"
+msgstr "Odaberi naredni filter:"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:12
+#: ../colorblind/ui/ColorblindPreferencesUI.py:217
+msgid "Selective Blue Desaturation"
+msgstr "Ciljano osiromaši plavu"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:13
+#: ../colorblind/ui/ColorblindPreferencesUI.py:214
+msgid "Selective Blue Saturation"
+msgstr "Ciljano zasiti plavu"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:14
+#: ../colorblind/ui/ColorblindPreferencesUI.py:216
+msgid "Selective Green Desaturation"
+msgstr "Ciljano osiromaši zelenu"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:15
+#: ../colorblind/ui/ColorblindPreferencesUI.py:213
+msgid "Selective Green Saturation"
+msgstr "Ciljano zasiti zelenu"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:16
+#: ../colorblind/ui/ColorblindPreferencesUI.py:215
+msgid "Selective Red Desaturation"
+msgstr "Ciljano osiromaši crvenu"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:17
+#: ../colorblind/ui/ColorblindPreferencesUI.py:212
+msgid "Selective Red Saturation"
+msgstr "Ciljano zasiti crvenu"
+
+#: ../colorblind/data/colorblind-prefs.glade.h:18
+msgid "This filter completely desaturates the blue color when this is the predominant pixel color in the image."
+msgstr "Ovaj filter potpuno uklanja plavu kada je ona glavna u boji piksela na slici."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:19
+msgid "This filter completely desaturates the green color when this is the predominant pixel color in the image."
+msgstr "Ovaj filter potpuno uklanja zelenu kada je ona glavna u boji piksela na slici."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:20
+msgid "This filter completely desaturates the red color when this is the predominant pixel color in the image."
+msgstr "Ovaj filter potpuno uklanja crvenu kada je ona glavna u boji piksela na slici."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:21
+msgid "This filter completely saturates the blue color when this is the predominant pixel color in the image."
+msgstr "Ovaj filter potpuno pojačava plavu kada je ona glavna u boji piksela na slici."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:22
+msgid "This filter completely saturates the green color when this is the predominant pixel color in the image."
+msgstr "Ovaj filter potpuno pojačava zelenu kada je ona glavna u boji piksela na slici."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:23
+msgid "This filter completely saturates the red color when this is the predominant pixel color in the image."
+msgstr "Ovaj filter potpuno pojačava crvenu kada je ona glavna u boji piksela na slici."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:24
+msgid "Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr "Menja crvenu u plavu, zelenu u crvenu i plavu u zelenu prenoseći moguće bliske boje u različiti deo spektra."
+
+#: ../colorblind/data/colorblind-prefs.glade.h:25
+msgid "Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr "Menja crvenu u zelenu, zelenu u plavu i plavu u crvenu prenoseći moguće bliske boje u različiti deo spektra."
+
+#: ../colorblind/ui/WindowUI.py:36
+msgid "_File"
+msgstr "_Datoteka"
+
+#: ../colorblind/ui/WindowUI.py:37
+msgid "_Quit"
+msgstr "_Napusti"
+
+#: ../colorblind/ui/WindowUI.py:38
+msgid "_Edit"
+msgstr "_Uređivanje"
+
+#: ../colorblind/ui/About.py:22
+msgid "Colorblind Applet"
+msgstr "Programče za daltoniste"
+
+#: ../colorblind/ui/About.py:25
+msgid "Image filters for the colorblind. This is applet is part of gnome-mag, a magnification service for GNOME."
+msgstr "Filter slike za daltoniste. Ovo programče je deo servisa za uvećanje u Gnomu."
+
+#: ../colorblind/ui/About.py:28
+msgid "gnome-mag website"
+msgstr "strana projekta"
+
+#. about.set_documenters([])
+#. translators: These appear in the About dialog, usual format applies.
+#: ../colorblind/ui/About.py:36
+msgid "translator-credits"
+msgstr ""
+"\"Goran Rakić <grakic@devbase.net>\n"
+"\"\"\n"
+"\"\"Prevod.org — prevod na srpski jezik\""
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:105
+msgid "New accelerator..."
+msgstr "Novi ubrzivač..."
+
+#: ../colorblind/ui/ColorblindPreferencesUI.py:157
+#, python-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"Nije moguće upotrebiti prečicu „%s“ jer će time unos ovog tastera biti onemogućeno.\n"
+"Pokušajte da istovremeno pritisnete neki od tastera Ctrl, Alt ili Shift.\n"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:1
+msgid "Magnifier"
+msgstr "Lupa"
+
+#: ../magnifier/GNOME_Magnifier.server.in.in.h:2
+msgid "Simple Screen Magnification Service"
+msgstr "Jednostavni servis za uvećanje ekranskog prikaza"
+
+#: ../magnifier/magnifier-main.c:408
+#, c-format
+msgid "Can't open display: DISPLAY is not set"
+msgstr "Ne mogu da pristupim ekranu: promenljiva DISPLAY nije podešena"
+
